@@ -1,0 +1,29 @@
+.header {
+    font-size: 10px;
+   border: 1px solid #000000; 
+   width: 200px;
+   border-radius: 15px;
+   padding: 1em 1em;
+   background-color: rgb(225, 255, 255);
+   border: none;
+   box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.3);
+   
+
+}
+
+.text {
+    color: rgb(165, 165, 255);
+
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    margin: 0 auto;
+    margin-top: 0.5em;
+}
+
+.time {
+    color: dimgray;
+    
+}
